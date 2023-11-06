@@ -91,6 +91,6 @@ docker logs -f --tail 100 ev
 
 ### Sorularınız olursa telegram sohbet grubumuz ve discord sunucumuza katılabilirsiniz.
 
-# Gökhan Molla Hocama teşekkürler.
+### Gökhan Molla Hocama teşekkürler.
 
 </div>
